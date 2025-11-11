@@ -1,1 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Red Sneakers",
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f"
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jacket",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+  },
+  {
+    "id": 3,
+    "name": "Black Leather Bag",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1606813902773-d86822e92b1a"
+  }
+]
 
